@@ -1,0 +1,18 @@
+.cart-no{
+	position: absolute;
+	min-height: 20px;
+	min-width: 20px;
+	border-radius: 50%;
+	font-size: 1em;
+	background: blue;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	top: -5px;
+	right: -5px;
+}
+.position-relative{
+	margin-right: 20px;
+	cursor: pointer;
+}
